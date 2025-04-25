@@ -1,0 +1,23 @@
+Hello, are you able to explain me in detail the intent request with the id number {intentID}
+can you describe the {descriptionType} of the network request {intentID}
+can you describe me an intent request?
+can you explain me what´s inside a network request?
+can you explain me the intent {intentID}
+can you tell me the {descriptionType} of intent id {intentID}
+describe me an intent
+describe me an intent request
+explain me an intent
+explain me an intent request
+are you able to tell me the details of an intent request using natural language
+can you describe me the inner details of the json object of an intent request?
+can you express with natural language the contents of an intent request?
+express with words the content of an intent request
+Could you explain the intent request with ID {intentID} in simple terms?
+What is the intent with ID {intentID} about?
+Tell me what the intent ID {intentID} does.
+What does the intent request {intentID} mean?
+Give me a detailed explanation of the intent {intentID}.
+Help me understand the intent identified by {intentID}.
+What is inside the intent {intentID}?
+Break down the intent request with ID {intentID} for me.
+Explain to me what the request with intent ID {intentID} contains.
