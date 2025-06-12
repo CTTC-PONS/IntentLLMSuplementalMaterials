@@ -52,9 +52,9 @@ To illustrate the variety of requests the system handles and to serve as input e
 
 ---
 
-### 🟣 `pretrainedInstancesSampleForIntentExplanation.txt`
+### 🟣 `sampleUtterances file.txt`
 **Description:**  
-This JSON file includes a subset of pretrained instances for the **intent explanation module**, aimed at covering a broad spectrum of linguistic variations.
+The text files include a sample of utterances used as inputs for the LLM, aimed at covering a broad spectrum of linguistic variations.
 
 **Contents:**  
 - Example intents paired with corresponding explanation phrases.
