@@ -1,0 +1,80 @@
+can you retrieve intents from a database?
+Can I get the register intents?
+get items from a database
+get intent request from the database
+get retrieved intent requests
+get all the intent requests
+I want to get some of the intent requests from the database
+get some of the intents requests from the dataset
+I would like to inspect the traffic regarding the historically added intents
+Can you fetch the intent requests from the database?
+Retrieve all stored intent requests for me.
+I’d like to access the intent requests in the database.
+Can you pull up the list of intent requests?
+Show me the intent records stored in the system.
+Give me access to the saved intent requests.
+Get me the database entries for intent requests.
+Can you load all the existing intent requests?
+Display the intents that have been logged so far.
+I want to retrieve historical intent request data.
+Please get all entries related to intent requests.
+Can you bring up the stored intents from the dataset?
+Retrieve intents that have been previously registered.
+Pull all stored intent request items.
+Could you extract intent records from the database?
+I would like to browse the stored intent requests.
+Can you search for intent requests in the data store?
+Fetch intent requests that were previously added.
+Load the saved intent requests into view.
+Retrieve intent request entries from storage.
+Can you access the intents stored in the repository?
+I want to query the database for intent request entries.
+Retrieve the contents of intent ID {intentID}.
+Can you fetch the details for intent {intentID}?
+Show me what’s stored in intent request {intentID}.
+Get the data for intent {intentID} from the database.
+I’d like to see the full contents of intent ID {intentID}.
+Can you pull up intent {intentID}?
+Please retrieve the record for intent request {intentID}.
+Load the stored information for intent ID {intentID}.
+Fetch intent request {intentID} from storage.
+Can you display all the data inside intent {intentID}?
+Bring up the full details for intent request {intentID}.
+I want to access the stored data for intent {intentID}.
+Get me the intent entry with ID {intentID}.
+Retrieve the database entry for intent request {intentID}.
+Please extract the record corresponding to intent {intentID}.
+Show me the intent request that matches ID {intentID}.
+Can you return the full intent request for ID {intentID}?
+I need to inspect the stored information for intent {intentID}.
+Query the database for intent request ID {intentID}.
+Can you present the full dataset for intent {intentID}?
+Provide me with all available data for intent request {intentID}.
+Search for and display the record of intent {intentID}.
+Query intent ID {intentID} and return the {attributeName} field.
+can I retrieve intents historically added from a database?
+Can I get the registered intents?
+perform a lookup in the database
+Can you retrieve the locations of intent ID {intentID}?
+Get me the value of bandwidth restrictions from intent request {intentID}.
+What are the location attributes of intent {intentID}?
+Show me the bandwidth restrictions from intent request {intentID}.
+Please fetch the location attribute for intent {intentID}.
+I’d like to see the bandwidth restriction parameters of intent request {intentID}.
+Extract the locations from intent ID {intentID}.
+Retrieve the content of the bandwidth field in intent request {intentID}.
+Pull up the value of bandwidth restrictions for intent {intentID}.
+Provide me with the locations related to intent request {intentID}.
+Show only the contents of the attribute for intent ID {intentID}.
+Can you extract the attributes from the intent request {intentID}?
+Give me the bandiwidth restrictions property for intent request {intentID}.
+I need to check the locations of intent {intentID}.
+Retrieve intent bandwidth and display its {attributeName}.
+Find intent locations and show the {attributeName} value.
+Can you search for the attributes inside intent ID {intentID}?
+Display the value contained in the {attributeName} field of intent {intentID}.
+What value do intents have for locations?
+Show me the specific bandwidth restrictions for intent request {intentID}.
+Could you return only the locations for intent {intentID}?
+I want to retrieve just the restrictions from intent {intentID}.
+Pull the bandwidth attributes from intent {intentID} in the database.
