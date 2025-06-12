@@ -21,3 +21,61 @@ Help me understand the intent identified by {intentID}.
 What is inside the intent {intentID}?
 Break down the intent request with ID {intentID} for me.
 Explain to me what the request with intent ID {intentID} contains.
+May I kindly ask you to provide a detailed explanation of the intent request with ID {intentID}?
+Would you be able to walk me through the contents of the intent request {intentID}?
+Could you elaborate on the request identified by intent ID {intentID}?
+Can you help me grasp the meaning of the intent request {intentID}?
+I'd appreciate it if you could explain the intent {intentID} in detail.
+Please provide me with a thorough description of intent request {intentID}.
+Can you clarify the contents of the intent request with ID {intentID}?
+What's inside intent {intentID}?
+What does intent {intentID} do?
+Break down intent {intentID} for me.
+Tell me more about intent {intentID}.
+Can you unpack intent {intentID}?
+What’s the purpose of intent {intentID}?
+I'm trying to understand intent request {intentID}, can you explain it to me?
+Can you teach me what intent {intentID} represents?
+I’d like to know how intent {intentID} works — can you explain?
+What kind of information is stored in intent request {intentID}?
+How does intent {intentID} operate?
+Can you parse the JSON object of intent {intentID} and explain it in simple terms?
+Could you list the fields and values contained in intent request {intentID}?
+Walk me through the key elements of the JSON for intent {intentID}.
+Can you translate the JSON content of intent {intentID} into natural language?
+What is the goal of the intent request {intentID}?
+What function does intent {intentID} serve?
+What problem is intent {intentID} trying to solve?
+What operation does intent {intentID} describe?
+Can you describe the {descriptionType} for intent request {intentID}?
+Give me the {descriptionType} details of intent ID {intentID}.
+Tell me about the {descriptionType} aspect of the network request {intentID}.
+Explain the {descriptionType} part of intent request {intentID}.
+Paraphrased / Indirect:
+I’m curious about what’s included in intent {intentID}. Could you explain?
+Could you shed some light on what intent request {intentID} entails?
+What kind of request is intent {intentID}?
+I need to better understand intent {intentID}. Can you help?
+Can you walk me step by step through intent request {intentID}?
+Please explain what data is carried by intent ID {intentID}.
+I'd like to know all the details inside the intent request {intentID}.
+Can you rephrase the content of intent {intentID} into simple language?
+What does the intent request with ID {intentID} aim to accomplish?
+Could you summarize the intent {intentID} for me?
+Can you convert the technical content of intent {intentID} into plain English?
+Please describe what is specified in intent request {intentID}.
+Help me analyze the information contained in intent {intentID}.
+What configuration does intent ID {intentID} refer to?
+I need a clear explanation of what intent request {intentID} includes.
+What actions will be taken according to intent {intentID}?
+Can you elaborate on the parameters defined in intent ID {intentID}?
+Give me a breakdown of the specifications for intent request {intentID}.
+Could you detail the instructions described by intent {intentID}?
+Please interpret the request identified by intent ID {intentID}.
+Show me the components involved in intent {intentID}.
+Could you help me understand the scope of intent request {intentID}?
+What operations are described within intent request {intentID}?
+Could you explain how intent {intentID} is structured?
+What is the full description of intent {intentID}?
+Can you clarify what the network intends to do based on intent request {intentID}?
+
